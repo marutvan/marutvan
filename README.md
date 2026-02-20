@@ -1,4 +1,4 @@
 # marutvan
 This is my first git repository.
 <br>
-Author - Marutvan
+Author - Marutvan Gupta
